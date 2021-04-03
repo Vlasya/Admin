@@ -1,0 +1,11 @@
+.header_wrapper {
+    height: 70px;
+}
+.header_container {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-bottom: 1px solid #379683;
+    padding: 10px 0;
+}

@@ -1,0 +1,20 @@
+.button {
+    display: block;
+    padding: 5px;
+    margin-right: 10px;
+    color: #05386B;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-right: 2px solid #379683;
+    border-bottom: 2px solid transparent;
+    border-radius: 2px;
+}
+
+.button.active {
+    border-bottom: 2px solid #EDF5E1;
+    background-color: #5ad893;
+    transition: all .5s;
+
+
+}
